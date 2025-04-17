@@ -9,7 +9,7 @@ export default function ProjectsPage() {
         <div className="max-w-4xl mx-auto space-y-6 p-10">
           <h1 className="text-4xl font-bold text-indigo-400">Creative Projects</h1>
           <p className="text-gray-300">
-            A showcase of Justin's Web3 and AI experiments, including NFT character collections,
+            A showcase of Justin&apos;s Web3 and AI experiments, including NFT character collections,
             games, and tools built on Abstract Chain, Ethereum, and more.
           </p>
           <div className="space-y-4">
@@ -23,7 +23,7 @@ export default function ProjectsPage() {
             <div className="bg-zinc-800 p-4 rounded-xl border border-zinc-700">
               <h2 className="text-2xl font-semibold text-indigo-300">Lil Bape</h2>
               <p className="text-sm text-gray-400">
-                A cartoon-based ape character representing Justin's Web3 identity. Lives across
+                A cartoon-based ape character representing Justin&apos;s Web3 identity. Lives across
                 stories, games, and on-chain collectibles.
               </p>
             </div>

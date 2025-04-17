@@ -1,4 +1,7 @@
-HEAD
+# BEARDEDAPE.ETH
+
+This is the official personal + project site for Justin Botha (aka BeardedApe.eth).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -39,6 +42,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-=======
-# beardedape-site
->>>>>>> 9a5b765be7d4df23a61a27db1d687397539b5921
