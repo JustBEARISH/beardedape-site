@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useRouter } from "next/router";
-import { Button } from "@/components/ui/button";
 
 export default function Home() {
   const [mode, setMode] = useState(null);
